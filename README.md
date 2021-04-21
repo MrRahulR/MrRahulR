@@ -33,6 +33,7 @@
 #### More about me! ☠
 - 📄 I'm the founder of the blogs website - [Step2QA](http://step2qa.com/)
 - ☕ I've also founded the QA Video Tutorial - [QACaffe](http://qacaffe.com/)
+- 🦠 I also have designed COVID19 Dashboard for the India - [PiRSquare](https://pi-covid19.herokuapp.com/)
 
 <img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
