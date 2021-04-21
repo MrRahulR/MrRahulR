@@ -1,6 +1,6 @@
 ### Holla World! 👋🏼🎉
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif?raw=true" width="450" height="300" />
 
 ## Hey, I'm [Rahul R Pandya!](https://github.com/MrRahulR) 👋, I'm from Ahmedabad, Gujarat, India. <br> I'm the Test Automation Engineer 🔨 <br><br> I'm working in Delivery Hero HF Kitchens GmbH (Honest Food Company) in Goa! ❤  <br>
 <a href="https://www.honestfoodcompany.de/" target="_blank"><img src="https://www.honestfoodcompany.de/images/Logo_HF.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="35px"></a>
@@ -30,11 +30,16 @@
 - 📫 How to reach me: You can connect me on any of below details. 
 - ⚡ Fun fact: I still watch cartoons!
 
+#### More about me! ☠
+- 📄 I'm the founder of the blogs website - [Step2QA](http://step2qa.com/)
+- ☕ I've also founded the QA Video Tutorial - [QACaffe](http://qacaffe.com/)
+
+<img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Connect with me 📝
 
 <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile Views&color=brightgreen&style=plastic" alt="MrRahulR" /> </a>
+<img src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile Views&color=brightgreen&style=plastic" alt="MrRahulR" /> </a>
