@@ -38,9 +38,10 @@
 <img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Connect with me 📝
+### Connect with or follow me 📝
 
 <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="https://www.benlcollins.com/wp-content/uploads/2016/01/quora.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile Views&color=brightgreen&style=plastic" alt="MrRahulR" /> </a>
