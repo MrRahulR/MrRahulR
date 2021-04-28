@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif?raw=true" width="450" height="300" />
 
 ## Hey, I'm [Rahul R Pandya!](https://github.com/MrRahulR) 👋, I'm from Ahmedabad, Gujarat, India. <br> I'm the Test Automation Engineer 🔨 <br><br> I'm working in Delivery Hero HF Kitchens GmbH (Honest Food Company) in Goa! ❤  <br>
-<a href="https://www.honestfoodcompany.de/" target="_blank"><img src="https://www.honestfoodcompany.de/images/Logo_HF.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="35px"></a>
+<a href="https://www.honestfoodcompany.de/" target="_blank"><img src="https://www.honestfoodcompany.de/static/header_logo_transparent-0445e33fe90a53040676de062fbf1293.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="35px"></a>
 
 #### Languages 🛠- 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
