@@ -28,7 +28,8 @@
 - 🌱 I’m currently learning TypeScript & NodeJS
 - 💬 You can ask me anything about TV Shows 📺, Cricket 🏏 and Time Travel ⌛!
 - 📫 How to reach me: You can connect me on any of below details. 
-- ⚡ Fun fact: I still watch cartoons!
+- ⚡ Fun fact: I still watch cartoons, and nostalgic about 90s.
+- 🎵 Checkout my Spotify playlist - <a href='https://open.spotify.com/playlist/2nBFAh7x6NezlDqBmbqCB0' target="_blank"> &lt;programming /&gt; </a> 
 
 #### More about me! ☠
 - 📄 I'm the founder of the blogs website - [Step2QA](http://step2qa.com/)
