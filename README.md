@@ -19,9 +19,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/postman-logo-removebg-preview.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical)
 <img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=MrRahulR&count_private=true&show_icons=true&theme=radical"/>
+
+#### Certification 📃
+- Postman Student Expert [Credentials](https://badgr.com/public/assertions/S_5-bBVoQtay3Ktldi_PAg)
+- ISTQB Foundation Level Tester 
 
 #### About Me 👽
 - 🔭 I’m currently working on Cypress with JavaScript/TypeScript
