@@ -24,8 +24,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical)
 <img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=MrRahulR&count_private=true&show_icons=true&theme=radical"/>
 
+<img align="right" alt="ISTQB" src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/download__1_-removebg-preview.png"/>
+
 #### Certification 📃
-- Postman Student Expert [Credentials](https://badgr.com/public/assertions/S_5-bBVoQtay3Ktldi_PAg)
+- Postman Student Expert - [Credentials](https://badgr.com/public/assertions/S_5-bBVoQtay3Ktldi_PAg)
 - ISTQB Foundation Level Tester 
 
 #### About Me 👽
