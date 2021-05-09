@@ -39,12 +39,10 @@
 - 🎵 Checkout my Spotify playlist - <a href='https://open.spotify.com/playlist/2nBFAh7x6NezlDqBmbqCB0' target="_blank"> &lt;programming /&gt; </a> 
 
 #### More about me! ☠
+- 🕸 Visit my portfolio - [Portfolio](https://www.rahulrpandya.in/)
 - 📄 I'm the founder of the blogs website - [Step2QA](http://step2qa.com/)
 - ☕ I've also founded the QA Video Tutorial - [QACaffe](http://qacaffe.com/)
 - 🦠 I also have designed COVID19 Dashboard for the India - [PiRSquare](https://pi-covid19.herokuapp.com/)
-
-<img src="https://avatars.githubusercontent.com/u/5868870?s=400&u=333f88322cbee946299daef34e4a366d1dae69c7&v=4" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/Picture1.png" width="50px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Connect with or follow me 📝
 
