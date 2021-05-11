@@ -1,4 +1,6 @@
-### Holla World! 👋🏼🎉
+### Holla World! 👋🏼🎉 
+
+<img align="right" src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile Views&color=brightgreen&style=plastic" alt="MrRahulR" /> </a> <br>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif?raw=true" width="450" height="300" />
 
@@ -49,5 +51,3 @@
 <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="https://img.pngio.com/quora-icon-logo-transparent-png-svg-vector-quora-png-512_512.png" width="40px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile Views&color=brightgreen&style=plastic" alt="MrRahulR" /> </a>
