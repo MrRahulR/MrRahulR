@@ -28,7 +28,7 @@
 
 #### Certification 📃
 - Postman Student Expert - [Credentials](https://badgr.com/public/assertions/S_5-bBVoQtay3Ktldi_PAg)
-- ISTQB Foundation Level Tester 
+- ISTQB Foundation Level Tester - [Link](https://www.istqb.org/)
 
 #### About Me 👽
 - 🔭 I’m currently working on Cypress with JavaScript/TypeScript
