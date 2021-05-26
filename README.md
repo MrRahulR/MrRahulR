@@ -1,4 +1,5 @@
-### Holla World! 👋🏼🎉 
+### Holla World! 👋🏼🎉  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="https://image.flaticon.com/icons/svg/725/725300.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="https://image.flaticon.com/icons/png/512/725/725333.png" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile Views&color=brightgreen&style=plastic" alt="MrRahulR" /> </a> <br>
 
@@ -22,6 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/postman-logo-removebg-preview.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="40px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical)
 <img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=MrRahulR&count_private=true&show_icons=true&theme=radical"/>
@@ -46,8 +48,10 @@
 - ☕ I've also founded the QA Video Tutorial - [QACaffe](http://qacaffe.com/)
 - 🦠 I also have designed COVID19 Dashboard for the India - [PiRSquare](https://pi-covid19.herokuapp.com/)
 
-### Connect with or follow me 📝
+### 🚀 Where you can find me 📝
 
-<a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="https://img.pngio.com/quora-icon-logo-transparent-png-svg-vector-quora-png-512_512.png" width="40px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"><img src="https://image.flaticon.com/icons/svg/725/725300.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="https://image.flaticon.com/icons/png/512/725/725333.png" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg" width="35px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
