@@ -31,7 +31,7 @@
 <img align="right" alt="ISTQB" src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/download__1_-removebg-preview.png"/>
 
 #### Certification 📃
-- Postman Student Expert - [Credentials](https://badgr.com/public/assertions/S_5-bBVoQtay3Ktldi_PAg)
+- Badges earned in Postman - [Badgr](https://api.badgr.io/public/collections/a0b0123aa052099339ccc763e4a81637)
 - ISTQB Foundation Level Tester - [Link](https://www.istqb.org/)
 
 #### About Me 👽
