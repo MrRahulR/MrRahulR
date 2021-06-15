@@ -48,7 +48,7 @@
 - ☕ I've also founded the QA Video Tutorial - [QACaffe](http://qacaffe.com/)
 - 🦠 I also have designed COVID19 Dashboard for the India - [PiRSquare COVID Dashboard](https://pi-covid19.herokuapp.com/)
 
-### 🚀 Where you can find me �
+### 🚀 Where you can find me 📃
 
 <a href="http://rahulrpandya.in/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/3719/3719350.png" width="35px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
