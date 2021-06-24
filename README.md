@@ -44,8 +44,8 @@
 
 #### More about me! ☠
 - 🕸 Visit my portfolio - [Portfolio](https://www.rahulrpandya.in/)
-- 📄 I'm the founder of the blogs website - [Step2QA](http://step2qa.com/)
-- ☕ I've also founded the QA Video Tutorial - [QACaffe](http://qacaffe.com/)
+- 📄 I've founded a blogs website - [Step2QA](http://step2qa.com/)
+- ☕ I've also founded the QA Tutorial Site - [QACaffe](http://qacaffe.com/)
 - 🦠 I also have designed COVID19 Dashboard for the India - [PiRSquare COVID Dashboard](https://pi-covid19.herokuapp.com/)
 
 ### 🚀 Where you can find me 📃
