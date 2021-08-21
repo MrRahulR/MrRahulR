@@ -27,8 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical)
 <img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=MrRahulR&count_private=true&show_icons=true&theme=radical"/>
-
-<img align="right" alt="ISTQB" src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/download__1_-removebg-preview.png"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRahulR&theme=radical" alt="MrRahulR" />
 
 #### Certification 📃
 - Badges earned in Postman - [Badgr](https://api.badgr.io/public/collections/a0b0123aa052099339ccc763e4a81637)
@@ -41,6 +40,8 @@
 - 📫 How to reach me: You can connect me on any of below details. 
 - ⚡ Fun fact: I still watch cartoons, and nostalgic about 90s.
 - 🎵 Checkout my Spotify playlist - <a href='https://open.spotify.com/playlist/2nBFAh7x6NezlDqBmbqCB0' target="_blank"> &lt;programming /&gt; </a> 
+
+<img align="right" alt="ISTQB" src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/download__1_-removebg-preview.png"/>
 
 #### More about me! ☠
 - 🕸 Visit my portfolio - [Portfolio](https://www.rahulrpandya.in/)
