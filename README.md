@@ -15,9 +15,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tools & Technologies ⚒- 
-<img src="https://cdn.worldvectorlogo.com/logos/selenium-logo.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
