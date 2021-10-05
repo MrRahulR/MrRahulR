@@ -9,8 +9,9 @@
 <a href="https://www.honestfoodcompany.de/" target="_blank"><img src="https://www.honestfoodcompany.de/static/header_logo_transparent-0445e33fe90a53040676de062fbf1293.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="35px"></a>
 
 #### Languages 🛠- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
