@@ -42,7 +42,7 @@
 - ⚡ Fun fact: I still watch cartoons, and nostalgic about 90s.
 - 🎵 Checkout my Spotify playlist - <a href='https://open.spotify.com/playlist/2nBFAh7x6NezlDqBmbqCB0' target="_blank"> &lt;programming /&gt; </a> 
 
-<img align="right" alt="ISTQB" src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/download__1_-removebg-preview.png"/>
+<img align="right" alt="ISTQB" src="/imgs/ISTQB.png"/>
 
 #### More about me! ☠
 - 🕸 Visit my portfolio - [Portfolio](https://www.rahulrpandya.in/)
