@@ -52,15 +52,15 @@
 
 ### 🚀 Where you can find me 📃
 
-<a href="http://rahulrpandya.in/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/3719/3719350.png" width="35px"></a>
+<a href="http://rahulrpandya.in/" target="_blank"> <img src="/imgs/web.png" width="35px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="http://qacaffe.com/" target="_blank"> <img src="https://github.com/MrRahulR/MrRahulR/blob/main/QACaffe-github.PNG" width="35px"></a>
+<a href="http://qacaffe.com/" target="_blank"> <img src="/imgs/QACaffe.PNG" width="35px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="https://image.flaticon.com/icons/svg/725/725300.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="35px"></a> 
+<a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="/imgs/youtube.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="/imgs/linkedin.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="/imgs/twitter.png" width="35px"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="https://image.flaticon.com/icons/png/512/725/725333.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg" width="35px"></a>
+<a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="/imgs/quora.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="/imgs/instagram.png" width="35px"></a>
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
