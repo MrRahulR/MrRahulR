@@ -11,13 +11,13 @@
 #### Languages 🛠- 
 <img src="/imgs/java.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/imgs/html-5.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/imgs/css3.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/css-3.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/imgs/js.png" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/imgs/ts/png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/typescript.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tools & Technologies ⚒- 
-<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/selenium.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/cypress.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
