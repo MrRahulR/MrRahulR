@@ -10,7 +10,7 @@
 
 #### Languages 🛠- 
 <img src="/imgs/java.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/imgs/html5.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/html-5.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/imgs/css3.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/imgs/js.png" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/imgs/ts/png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
