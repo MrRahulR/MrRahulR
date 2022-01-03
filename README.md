@@ -9,11 +9,11 @@
 <a href="https://www.honestfoodcompany.de/" target="_blank"><img src="https://www.honestfoodcompany.de/static/header_logo_transparent-0445e33fe90a53040676de062fbf1293.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="35px"></a>
 
 #### Languages 🛠- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/java.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/html5.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/css3.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/js.png" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/ts/png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tools & Technologies ⚒- 
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,8 +23,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="35px">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MrRahulR/MrRahulR/main/postman-logo-removebg-preview.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="40px" >
+<img src="/imgs/postman.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/imgs/googlecloud.png" width="40px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical)
 <img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=MrRahulR&count_private=true&show_icons=true&theme=radical"/>
