@@ -5,8 +5,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Rahul R Pandya!](http://rahulrpandya.in/) 👋, I'm from Ahmedabad, Gujarat, India. <br> I'm the Test Automation Engineer 🔨 <br><br> I'm working in Delivery Hero India at Goa! ❤  <br>
-<a href="https://www.honestfoodcompany.de/" target="_blank"><img src="https://www.honestfoodcompany.de/static/header_logo_transparent-5de0efbae634b2b1c9dc16ca306c75b7.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="35px"></a>
+## Hey, I'm [Rahul R Pandya!](http://rahulrpandya.in/) 👋 <br><br> 📍 Ahmedabad, India 🇮🇳 <br><br> Currently working as Senior Automation Engineer at  <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="30px"></a> Delivery Hero! <br>
 
 #### Languages 🛠- 
 <img src="/imgs/java.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
