@@ -65,5 +65,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="/imgs/quora.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="/imgs/instagram.png" width="35px"></a>
-
-<div>Icons by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a></div>
