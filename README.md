@@ -1,4 +1,4 @@
-### Holla World! 👋🏼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://rahulrpandya.in/" target="_blank"> <img src="/imgs/web.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://qacaffe.com/" target="_blank"> <img src="/imgs/QACaffe.PNG" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="/imgs/youtube.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="/imgs/linkedin.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="/imgs/twitter.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="/imgs/quora.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="/imgs/instagram.png" width="35px"></a>
+### Hallo World! 👋🏼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://rahulrpandya.in/" target="_blank"> <img src="/imgs/web.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="/imgs/youtube.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="/imgs/linkedin.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="/imgs/twitter.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="/imgs/quora.png" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="/imgs/instagram.png" width="35px"></a>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MrRahulR&label=Profile%20Views" alt="Views" /> </a> <br>
 
@@ -18,6 +18,7 @@
 
 <img src="/imgs/selenium.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/imgs/cypress.png" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://playwright.dev/img/playwright-logo.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="35px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,8 +28,9 @@
 <img src="/imgs/googlecloud.png" width="40px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical)
-<img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api?username=MrRahulR&count_private=true&show_icons=true&theme=radical"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRahulR&theme=radical" alt="MrRahulR" />
+
+<img align="right" alt="ISTQB" src="/imgs/ISTQB.png"/>
 
 #### Certification 📃
 
@@ -37,14 +39,13 @@
 
 #### About Me 👽
 
-- 🔭 I’m currently working on Appium and Espresso
+- 🔭 I’m currently working on Playwright JS
 - 🌱 I’m currently learning TypeScript & NodeJS
 - 💬 You can ask me anything about TV Shows 📺, Cricket 🏏 and Time Travel ⌛!
 - 📫 How to reach me: You can contact me on any of the below details.
 - ⚡ Fun fact: I still watch cartoons, and nostalgic about the 90s.
 - 🎵 Check out my Spotify playlist - <a href='https://open.spotify.com/playlist/2nBFAh7x6NezlDqBmbqCB0' target="_blank"> &lt;programming /&gt; </a>
 
-<img align="right" alt="ISTQB" src="/imgs/ISTQB.png"/>
 
 #### More about me! ☠
 
@@ -57,11 +58,8 @@
 
 <a href="http://rahulrpandya.in/" target="_blank"> <img src="/imgs/web.png" width="35px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://qacaffe.com/" target="_blank"> <img src="/imgs/QACaffe.PNG" width="35px"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="/imgs/youtube.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rahulrpandya/" target="_blank"><img src="/imgs/linkedin.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="/imgs/twitter.png" width="35px"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Rahul_RPandya" target="_blank"><img src="/imgs/twitter.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Rahul-R-Pandya-2" target="_blank"><img src="/imgs/quora.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/null.is.my.name/" target="_blank"><img src="/imgs/instagram.png" width="35px"></a>
