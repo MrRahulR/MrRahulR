@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Rahul R Pandya!](http://rahulrpandya.in/) 👋 <br><br> 📍 Berlin, Germany 🇩🇪  <br><br> 📍 Ahmedabad, India 🇮🇳 <br><br> Currently working as Senior Automation Engineer at <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://www.deliveryhero.com/wp-content/uploads/2019/08/DH-ICON.png" width="30px"></a> Delivery Hero! <br>
+## Hey, I'm [Rahul R Pandya!](http://rahulrpandya.in/) 👋 <br><br> 📍 Berlin, Germany 🇩🇪  <br><br> 📍 Ahmedabad, India 🇮🇳 <br><br> Currently working as Senior Automation Engineer at <a href="https://www.deliveryhero.com/" target="_blank"><img src="https://dhhvideos.s3.eu-central-1.amazonaws.com/Delivery-Hero-Comet.png" width="30px"></a> Delivery Hero! <br>
 
 #### Languages 🛠-
 
