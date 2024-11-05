@@ -59,7 +59,7 @@
 
 ### 🚀 Where you can find me 📃
 
-<a href="http://rahulrpandya.in/" target="_blank"> <img src="/imgs/web.png" width="35px"></a>
+<a href="http://rahulrpandya.in/" target="_blank"> <img src="/imgs/web.png" width="35px"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@rahulrpandya" target="_blank"><img src="/imgs/medium-3.png" width="40px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCGYkBJpNQBBLWbB1wfjVNhA" target="_blank"> <img src="/imgs/youtube.png" width="35px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
