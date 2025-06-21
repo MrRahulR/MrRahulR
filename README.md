@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently working on Playwright.
 - 🌱 I’m currently learning Data Science.
-- I'm also running Browserstack Berlin Meetup.
+- ✨ I'm also running Browserstack Berlin Meetup.
 - 💬 You can ask me anything about TV Shows 📺, Cricket 🏏 and Time Travel ⌛!
 - 📫 How to reach me: You can contact me on any of the below details.
 - ⚡ Fun fact: I still watch cartoons, and I am nostalgic about the 90s.
