@@ -71,6 +71,5 @@
 
 ### Check out my Github in numbers! 📈 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRahulR&theme=radical" alt="MrRahulR" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRahulR&show_icons=true&theme=radical" alt="MrRahulR" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrRahulR&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
