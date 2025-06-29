@@ -71,5 +71,5 @@
 
 ### Check out my Github in numbers! 📈 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrRahulR&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Rahul's Stats](https://github-readme-streak-stats.herokuapp.com/?user=MrRahulR&theme=cyber-streakglow&hide_border=true)]()
 
